@@ -18,8 +18,8 @@ classdef AveragePoolingLayer < CIANLayer
            %
            
            %COMPLETE ME!
-           
-           %The output should be ~ 1/poolSize * (feature map height x
+            %The output should be ~ 1/poolSize * (feature map height x
+          
            %feature map width). Think carefully about how you handle images
            %that aren't a multiple of poolSize in height or width.
        end       
